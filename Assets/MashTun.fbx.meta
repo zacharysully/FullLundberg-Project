@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 1e5f9a0c15a752f488320eb8de32cb68
+timeCreated: 1523505088
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Band1
+    100002: Band2
+    100004: barel
+    100006: Base
+    100008: Base1
+    100010: Board
+    100012: Bolt1
+    100014: Bolt1 1
+    100016: Bolt1 2
+    100018: Bolt2
+    100020: Bolt2 1
+    100022: Bolt2 2
+    100024: Bolt3
+    100026: BottomPeice
+    100028: CeilingPipe
+    100030: Connecter1
+    100032: connectingPipe
+    100034: Connector2
+    100036: CornerPipe
+    100038: Cover
+    100040: CrossPipe
+    100042: curve1
+    100044: curve1 1
+    100046: Cylinder
+    100048: Door1
+    100050: Door2
+    100052: ElectricPipe
+    100054: Gague
+    100056: HalfPipe
+    100058: Handle
+    100060: Handle 1
+    100062: Handle2
+    100064: HandleScrew
+    100066: HangerBoard
+    100068: HanldeScrew
+    100070: Hopper
+    100072: Insulater1
+    100074: Insulater2
+    100076: Insulater3
+    100078: Insulation
+    100080: Leaver
+    100082: Leg1
+    100084: Leg2
+    100086: Leg3
+    100088: Leg4
+    100090: LightSwitch
+    100092: MainPipe
+    100094: MashTun
+    100096: //RootNode
+    100098: MashTun 1
+    100100: Midpeice
+    100102: OddThing
+    100104: OpenThing
+    100106: OtherPipe
+    100108: Outlet
+    100110: OutletPipe
+    100112: pCylinder6
+    100114: Peace1
+    100116: Peace1 1
+    100118: Peace2
+    100120: Peace3
+    100122: Peg1
+    100124: Peg10
+    100126: Peg11
+    100128: Peg12
+    100130: Peg13
+    100132: Peg14
+    100134: Peg15
+    100136: Peg16
+    100138: Peg17
+    100140: Peg18
+    100142: Peg19
+    100144: Peg2
+    100146: Peg3
+    100148: Peg4
+    100150: Peg5
+    100152: Peg6
+    100154: Peg7
+    100156: Peg8
+    100158: Peg9
+    100160: PegBoard
+    100162: Pipe
+    100164: Pipe 1
+    100166: Pipe 2
+    100168: Pipe1
+    100170: Pipe1 1
+    100172: Pipe1 2
+    100174: Pipe10
+    100176: Pipe11
+    100178: Pipe12
+    100180: Pipe13
+    100182: Pipe2
+    100184: Pipe2 1
+    100186: Pipe2 2
+    100188: Pipe4
+    100190: Pipe5
+    100192: Pipe6
+    100194: Pipe7
+    100196: Pipe8
+    100198: Pipe9
+    100200: PipeCap
+    100202: PipePart1
+    100204: PipePart2
+    100206: PipeSupport
+    100208: PlugBox
+    100210: PlugLid
+    100212: PlugPeace
+    100214: RandomPipe
+    100216: RandomStuff
+    100218: Ring1
+    100220: Ring2
+    100222: Ring3
+    100224: Ring4
+    100226: Ring5
+    100228: Ring6
+    100230: ScrewPeace
+    100232: ScrewPeace1
+    100234: ShortPipe
+    100236: SmallPipe1
+    100238: SmallPipe2
+    100240: StrangePipe
+    100242: SuportBeam
+    100244: Switch1
+    100246: Switch2
+    100248: SwitchBox
+    100250: TallPipe
+    100252: Tank
+    100254: Top
+    100256: TopPeice
+    100258: TPipe
+    100260: TPipe2
+    100262: Vale
+    100264: Valve
+    100266: Valve 1
+    100268: ValvePipes
+    100270: WallAccessories
+    100272: WallPipes
+    100274: Whisk1
+    100276: Whisk2
+    100278: Whisk3
+    100280: Whisk4
+    100282: WhiskHolder
+    100284: WhiskHolder 1
+    100286: WoodPeace
+    100288: WoodPeice1
+    100290: WoodPeice2
+    100292: WoodPeice3
+    100294: WoodPeice4
+    100296: Wrench
+    400000: Band1
+    400002: Band2
+    400004: barel
+    400006: Base
+    400008: Base1
+    400010: Board
+    400012: Bolt1
+    400014: Bolt1 1
+    400016: Bolt1 2
+    400018: Bolt2
+    400020: Bolt2 1
+    400022: Bolt2 2
+    400024: Bolt3
+    400026: BottomPeice
+    400028: CeilingPipe
+    400030: Connecter1
+    400032: connectingPipe
+    400034: Connector2
+    400036: CornerPipe
+    400038: Cover
+    400040: CrossPipe
+    400042: curve1
+    400044: curve1 1
+    400046: Cylinder
+    400048: Door1
+    400050: Door2
+    400052: ElectricPipe
+    400054: Gague
+    400056: HalfPipe
+    400058: Handle
+    400060: Handle 1
+    400062: Handle2
+    400064: HandleScrew
+    400066: HangerBoard
+    400068: HanldeScrew
+    400070: Hopper
+    400072: Insulater1
+    400074: Insulater2
+    400076: Insulater3
+    400078: Insulation
+    400080: Leaver
+    400082: Leg1
+    400084: Leg2
+    400086: Leg3
+    400088: Leg4
+    400090: LightSwitch
+    400092: MainPipe
+    400094: MashTun
+    400096: //RootNode
+    400098: MashTun 1
+    400100: Midpeice
+    400102: OddThing
+    400104: OpenThing
+    400106: OtherPipe
+    400108: Outlet
+    400110: OutletPipe
+    400112: pCylinder6
+    400114: Peace1
+    400116: Peace1 1
+    400118: Peace2
+    400120: Peace3
+    400122: Peg1
+    400124: Peg10
+    400126: Peg11
+    400128: Peg12
+    400130: Peg13
+    400132: Peg14
+    400134: Peg15
+    400136: Peg16
+    400138: Peg17
+    400140: Peg18
+    400142: Peg19
+    400144: Peg2
+    400146: Peg3
+    400148: Peg4
+    400150: Peg5
+    400152: Peg6
+    400154: Peg7
+    400156: Peg8
+    400158: Peg9
+    400160: PegBoard
+    400162: Pipe
+    400164: Pipe 1
+    400166: Pipe 2
+    400168: Pipe1
+    400170: Pipe1 1
+    400172: Pipe1 2
+    400174: Pipe10
+    400176: Pipe11
+    400178: Pipe12
+    400180: Pipe13
+    400182: Pipe2
+    400184: Pipe2 1
+    400186: Pipe2 2
+    400188: Pipe4
+    400190: Pipe5
+    400192: Pipe6
+    400194: Pipe7
+    400196: Pipe8
+    400198: Pipe9
+    400200: PipeCap
+    400202: PipePart1
+    400204: PipePart2
+    400206: PipeSupport
+    400208: PlugBox
+    400210: PlugLid
+    400212: PlugPeace
+    400214: RandomPipe
+    400216: RandomStuff
+    400218: Ring1
+    400220: Ring2
+    400222: Ring3
+    400224: Ring4
+    400226: Ring5
+    400228: Ring6
+    400230: ScrewPeace
+    400232: ScrewPeace1
+    400234: ShortPipe
+    400236: SmallPipe1
+    400238: SmallPipe2
+    400240: StrangePipe
+    400242: SuportBeam
+    400244: Switch1
+    400246: Switch2
+    400248: SwitchBox
+    400250: TallPipe
+    400252: Tank
+    400254: Top
+    400256: TopPeice
+    400258: TPipe
+    400260: TPipe2
+    400262: Vale
+    400264: Valve
+    400266: Valve 1
+    400268: ValvePipes
+    400270: WallAccessories
+    400272: WallPipes
+    400274: Whisk1
+    400276: Whisk2
+    400278: Whisk3
+    400280: Whisk4
+    400282: WhiskHolder
+    400284: WhiskHolder 1
+    400286: WoodPeace
+    400288: WoodPeice1
+    400290: WoodPeice2
+    400292: WoodPeice3
+    400294: WoodPeice4
+    400296: Wrench
+    2300000: Band1
+    2300002: Band2
+    2300004: barel
+    2300006: Base
+    2300008: Base1
+    2300010: Bolt1
+    2300012: Bolt1 1
+    2300014: Bolt1 2
+    2300016: Bolt2
+    2300018: Bolt2 1
+    2300020: Bolt2 2
+    2300022: Bolt3
+    2300024: BottomPeice
+    2300026: CeilingPipe
+    2300028: Connecter1
+    2300030: connectingPipe
+    2300032: Connector2
+    2300034: CornerPipe
+    2300036: Cover
+    2300038: CrossPipe
+    2300040: Cylinder
+    2300042: Door1
+    2300044: Door2
+    2300046: ElectricPipe
+    2300048: Gague
+    2300050: HalfPipe
+    2300052: Handle
+    2300054: Handle 1
+    2300056: Handle2
+    2300058: HandleScrew
+    2300060: HangerBoard
+    2300062: HanldeScrew
+    2300064: Insulater1
+    2300066: Insulater2
+    2300068: Insulater3
+    2300070: Insulation
+    2300072: Leg1
+    2300074: Leg2
+    2300076: Leg3
+    2300078: Leg4
+    2300080: MainPipe
+    2300082: Midpeice
+    2300084: OpenThing
+    2300086: pCylinder6
+    2300088: Peace1
+    2300090: Peace1 1
+    2300092: Peace2
+    2300094: Peace3
+    2300096: Peg1
+    2300098: Peg10
+    2300100: Peg11
+    2300102: Peg12
+    2300104: Peg13
+    2300106: Peg14
+    2300108: Peg15
+    2300110: Peg16
+    2300112: Peg17
+    2300114: Peg18
+    2300116: Peg19
+    2300118: Peg2
+    2300120: Peg3
+    2300122: Peg4
+    2300124: Peg5
+    2300126: Peg6
+    2300128: Peg7
+    2300130: Peg8
+    2300132: Peg9
+    2300134: Pipe
+    2300136: Pipe 1
+    2300138: Pipe 2
+    2300140: Pipe1 1
+    2300142: Pipe1 2
+    2300144: Pipe10
+    2300146: Pipe11
+    2300148: Pipe12
+    2300150: Pipe13
+    2300152: Pipe2 1
+    2300154: Pipe2 2
+    2300156: Pipe4
+    2300158: Pipe5
+    2300160: Pipe6
+    2300162: Pipe7
+    2300164: Pipe8
+    2300166: Pipe9
+    2300168: PipeCap
+    2300170: PipePart1
+    2300172: PipePart2
+    2300174: PipeSupport
+    2300176: PlugBox
+    2300178: PlugLid
+    2300180: PlugPeace
+    2300182: RandomPipe
+    2300184: Ring1
+    2300186: Ring2
+    2300188: Ring3
+    2300190: Ring4
+    2300192: Ring5
+    2300194: Ring6
+    2300196: ScrewPeace
+    2300198: ScrewPeace1
+    2300200: ShortPipe
+    2300202: SmallPipe1
+    2300204: SmallPipe2
+    2300206: SuportBeam
+    2300208: Switch1
+    2300210: Switch2
+    2300212: SwitchBox
+    2300214: TallPipe
+    2300216: Tank
+    2300218: Top
+    2300220: TopPeice
+    2300222: TPipe
+    2300224: TPipe2
+    2300226: Vale
+    2300228: Valve
+    2300230: Valve 1
+    2300232: Whisk1
+    2300234: Whisk2
+    2300236: Whisk3
+    2300238: Whisk4
+    2300240: WhiskHolder 1
+    2300242: WoodPeace
+    2300244: WoodPeice1
+    2300246: WoodPeice2
+    2300248: WoodPeice3
+    2300250: WoodPeice4
+    2300252: Wrench
+    3300000: Band1
+    3300002: Band2
+    3300004: barel
+    3300006: Base
+    3300008: Base1
+    3300010: Bolt1
+    3300012: Bolt1 1
+    3300014: Bolt1 2
+    3300016: Bolt2
+    3300018: Bolt2 1
+    3300020: Bolt2 2
+    3300022: Bolt3
+    3300024: BottomPeice
+    3300026: CeilingPipe
+    3300028: Connecter1
+    3300030: connectingPipe
+    3300032: Connector2
+    3300034: CornerPipe
+    3300036: Cover
+    3300038: CrossPipe
+    3300040: Cylinder
+    3300042: Door1
+    3300044: Door2
+    3300046: ElectricPipe
+    3300048: Gague
+    3300050: HalfPipe
+    3300052: Handle
+    3300054: Handle 1
+    3300056: Handle2
+    3300058: HandleScrew
+    3300060: HangerBoard
+    3300062: HanldeScrew
+    3300064: Insulater1
+    3300066: Insulater2
+    3300068: Insulater3
+    3300070: Insulation
+    3300072: Leg1
+    3300074: Leg2
+    3300076: Leg3
+    3300078: Leg4
+    3300080: MainPipe
+    3300082: Midpeice
+    3300084: OpenThing
+    3300086: pCylinder6
+    3300088: Peace1
+    3300090: Peace1 1
+    3300092: Peace2
+    3300094: Peace3
+    3300096: Peg1
+    3300098: Peg10
+    3300100: Peg11
+    3300102: Peg12
+    3300104: Peg13
+    3300106: Peg14
+    3300108: Peg15
+    3300110: Peg16
+    3300112: Peg17
+    3300114: Peg18
+    3300116: Peg19
+    3300118: Peg2
+    3300120: Peg3
+    3300122: Peg4
+    3300124: Peg5
+    3300126: Peg6
+    3300128: Peg7
+    3300130: Peg8
+    3300132: Peg9
+    3300134: Pipe
+    3300136: Pipe 1
+    3300138: Pipe 2
+    3300140: Pipe1 1
+    3300142: Pipe1 2
+    3300144: Pipe10
+    3300146: Pipe11
+    3300148: Pipe12
+    3300150: Pipe13
+    3300152: Pipe2 1
+    3300154: Pipe2 2
+    3300156: Pipe4
+    3300158: Pipe5
+    3300160: Pipe6
+    3300162: Pipe7
+    3300164: Pipe8
+    3300166: Pipe9
+    3300168: PipeCap
+    3300170: PipePart1
+    3300172: PipePart2
+    3300174: PipeSupport
+    3300176: PlugBox
+    3300178: PlugLid
+    3300180: PlugPeace
+    3300182: RandomPipe
+    3300184: Ring1
+    3300186: Ring2
+    3300188: Ring3
+    3300190: Ring4
+    3300192: Ring5
+    3300194: Ring6
+    3300196: ScrewPeace
+    3300198: ScrewPeace1
+    3300200: ShortPipe
+    3300202: SmallPipe1
+    3300204: SmallPipe2
+    3300206: SuportBeam
+    3300208: Switch1
+    3300210: Switch2
+    3300212: SwitchBox
+    3300214: TallPipe
+    3300216: Tank
+    3300218: Top
+    3300220: TopPeice
+    3300222: TPipe
+    3300224: TPipe2
+    3300226: Vale
+    3300228: Valve
+    3300230: Valve 1
+    3300232: Whisk1
+    3300234: Whisk2
+    3300236: Whisk3
+    3300238: Whisk4
+    3300240: WhiskHolder 1
+    3300242: WoodPeace
+    3300244: WoodPeice1
+    3300246: WoodPeice2
+    3300248: WoodPeice3
+    3300250: WoodPeice4
+    3300252: Wrench
+    4300000: WoodPeice1
+    4300002: WoodPeice3
+    4300004: WoodPeice4
+    4300006: WhiskHolder
+    4300008: WoodPeace
+    4300010: WoodPeice2
+    4300012: Whisk1
+    4300014: Whisk2
+    4300016: Whisk3
+    4300018: Whisk4
+    4300020: HangerBoard
+    4300022: Peg1
+    4300024: Peg2
+    4300026: Peg3
+    4300028: Peg4
+    4300030: Peg5
+    4300032: Peg6
+    4300034: Peg7
+    4300036: Peg8
+    4300038: Peg9
+    4300040: Peg10
+    4300042: Peg11
+    4300044: Peg12
+    4300046: Peg13
+    4300048: Peg14
+    4300050: Peg15
+    4300052: Peg16
+    4300054: Peg17
+    4300056: Peg18
+    4300058: Peg19
+    4300060: Wrench
+    4300062: Pipe13
+    4300064: BottomPeice
+    4300066: MainPipe
+    4300068: PipePart1
+    4300070: TPipe
+    4300072: PipePart2
+    4300074: TopPeice
+    4300076: TPipe2
+    4300078: ShortPipe
+    4300080: SmallPipe1
+    4300082: SmallPipe2
+    4300084: Midpeice
+    4300086: CornerPipe
+    4300088: Pipe6
+    4300090: Ring1
+    4300092: Ring2
+    4300094: Ring3
+    4300096: Ring4
+    4300098: Ring5
+    4300100: Ring6
+    4300102: Top
+    4300104: Base
+    4300106: Pipe5
+    4300108: Peace2
+    4300110: RandomPipe
+    4300112: Cylinder
+    4300114: Base1
+    4300116: Peace3
+    4300118: Peace1
+    4300120: Pipe
+    4300122: Pipe12
+    4300124: Peace1
+    4300126: SwitchBox
+    4300128: Switch2
+    4300130: Switch1
+    4300132: PlugLid
+    4300134: PlugBox
+    4300136: PlugPeace
+    4300138: ElectricPipe
+    4300140: Insulater3
+    4300142: Pipe1
+    4300144: Pipe2
+    4300146: Pipe11
+    4300148: Gague
+    4300150: CrossPipe
+    4300152: pCylinder6
+    4300154: Valve
+    4300156: HandleScrew
+    4300158: Handle
+    4300160: ScrewPeace
+    4300162: Vale
+    4300164: ScrewPeace1
+    4300166: Handle2
+    4300168: HanldeScrew
+    4300170: Pipe8
+    4300172: Pipe9
+    4300174: Insulater1
+    4300176: Insulater2
+    4300178: Pipe10
+    4300180: TallPipe
+    4300182: PipeSupport
+    4300184: HalfPipe
+    4300186: PipeCap
+    4300188: Cover
+    4300190: Pipe
+    4300192: Bolt1
+    4300194: Bolt2
+    4300196: Bolt3
+    4300198: Connector2
+    4300200: Pipe
+    4300202: Insulation
+    4300204: connectingPipe
+    4300206: Valve
+    4300208: Connecter1
+    4300210: Handle
+    4300212: Bolt1
+    4300214: Bolt2
+    4300216: Pipe4
+    4300218: barel
+    4300220: Leg1
+    4300222: Leg2
+    4300224: Leg3
+    4300226: Leg4
+    4300228: Door2
+    4300230: Door1
+    4300232: Pipe7
+    4300234: Tank
+    4300236: CeilingPipe
+    4300238: OpenThing
+    4300240: Bolt2
+    4300242: Pipe2
+    4300244: Band2
+    4300246: Pipe1
+    4300248: Bolt1
+    4300250: Band1
+    4300252: SuportBeam
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

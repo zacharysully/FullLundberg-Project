@@ -1,0 +1,230 @@
+fileFormatVersion: 2
+guid: ba16b0e27c609b64d890b06dfcd86316
+timeCreated: 1525229337
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: AC_Calc_Chair
+    100002: Back_Garage_Door
+    100004: Bars
+    100006: Boiler_Wort
+    100008: Boot_Poster_Phone1
+    100010: ClipBoard_Salt_Thermos
+    100012: Exterior_Shell
+    100014: Front_Garage_Door
+    100016: Glass_Bottles
+    100018: GlassObjects
+    100020: InteriorWalls
+    100022: Kegs
+    100024: Labels
+    100026: Main_Floor
+    100028: MashTun_Assests
+    100030: Office_Papers
+    100032: Office_Stuff:Office
+    100034: Outside_Walls
+    100036: Pipe_Extension
+    100038: PrimaryTanks
+    100040: Roof_Doors
+    100042: SecondaryTanks3
+    100044: Shelf_Final
+    100046: Shelf_Trash_Tape
+    100048: Sink
+    100050: //RootNode
+    400000: AC_Calc_Chair
+    400002: Back_Garage_Door
+    400004: Bars
+    400006: Boiler_Wort
+    400008: Boot_Poster_Phone1
+    400010: ClipBoard_Salt_Thermos
+    400012: Exterior_Shell
+    400014: Front_Garage_Door
+    400016: Glass_Bottles
+    400018: GlassObjects
+    400020: InteriorWalls
+    400022: Kegs
+    400024: Labels
+    400026: Main_Floor
+    400028: MashTun_Assests
+    400030: Office_Papers
+    400032: Office_Stuff:Office
+    400034: Outside_Walls
+    400036: Pipe_Extension
+    400038: PrimaryTanks
+    400040: Roof_Doors
+    400042: SecondaryTanks3
+    400044: Shelf_Final
+    400046: Shelf_Trash_Tape
+    400048: Sink
+    400050: //RootNode
+    2100000: OutsideWalls_Mat
+    2100002: GarageDoor_Mat
+    2100004: Floor_Mat
+    2100006: Roof_Doors_Mat
+    2100008: Salt_Clipboard_Mat
+    2100010: Boot_Poster_Mat
+    2100012: AC_Calc_Chair_Mat
+    2100014: Shlef_Trash_Tape_Mat
+    2100016: Labels_Mat
+    2100018: MashTun_Mat
+    2100020: SecondaryTanks_Mat
+    2100022: Glass_Mat
+    2100024: GlassObjects_Mat
+    2100026: PipeWall_Extension_Mat
+    2100028: Papers_Tack_Mat
+    2100030: Book_Case_Mat
+    2100032: Bars_Texture_Mat
+    2100034: Keg_Mat
+    2100036: InteriorWalls_Mat
+    2100038: Boiler_Wort_Mat
+    2100040: PrimaryTanks_Mat
+    2300000: AC_Calc_Chair
+    2300002: Back_Garage_Door
+    2300004: Bars
+    2300006: Boiler_Wort
+    2300008: Boot_Poster_Phone1
+    2300010: ClipBoard_Salt_Thermos
+    2300012: Front_Garage_Door
+    2300014: Glass_Bottles
+    2300016: GlassObjects
+    2300018: InteriorWalls
+    2300020: Kegs
+    2300022: Labels
+    2300024: Main_Floor
+    2300026: MashTun_Assests
+    2300028: Office_Papers
+    2300030: Outside_Walls
+    2300032: Pipe_Extension
+    2300034: PrimaryTanks
+    2300036: Roof_Doors
+    2300038: SecondaryTanks3
+    2300040: Shelf_Final
+    2300042: Shelf_Trash_Tape
+    2300044: Sink
+    3300000: AC_Calc_Chair
+    3300002: Back_Garage_Door
+    3300004: Bars
+    3300006: Boiler_Wort
+    3300008: Boot_Poster_Phone1
+    3300010: ClipBoard_Salt_Thermos
+    3300012: Front_Garage_Door
+    3300014: Glass_Bottles
+    3300016: GlassObjects
+    3300018: InteriorWalls
+    3300020: Kegs
+    3300022: Labels
+    3300024: Main_Floor
+    3300026: MashTun_Assests
+    3300028: Office_Papers
+    3300030: Outside_Walls
+    3300032: Pipe_Extension
+    3300034: PrimaryTanks
+    3300036: Roof_Doors
+    3300038: SecondaryTanks3
+    3300040: Shelf_Final
+    3300042: Shelf_Trash_Tape
+    3300044: Sink
+    4300000: Outside_Walls
+    4300002: Back_Garage_Door
+    4300004: Front_Garage_Door
+    4300006: Main_Floor
+    4300008: Roof_Doors
+    4300010: ClipBoard_Salt_Thermos
+    4300012: Boot_Poster_Phone1
+    4300014: AC_Calc_Chair
+    4300016: Shelf_Trash_Tape
+    4300018: Labels
+    4300020: MashTun_Assests
+    4300022: SecondaryTanks3
+    4300024: Glass_Bottles
+    4300026: GlassObjects
+    4300028: Pipe_Extension
+    4300030: Office_Papers
+    4300032: Shelf_Final
+    4300034: Bars
+    4300036: Kegs
+    4300038: InteriorWalls
+    4300040: Boiler_Wort
+    4300042: PrimaryTanks
+    4300044: Sink
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
